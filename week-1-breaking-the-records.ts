@@ -32,10 +32,26 @@ function readLine(): string {
 
 function breakingRecords(scores: number[]): number[] {
     
-    const minimum = Math.min(...scores)
-    const maximum = Math.max(...scores);
+    let currentMostRecord = scores[0];
+    let currentLeastRecord = scores[0];
+    
+    let mostRecordsTimes = 0;
+    let leastRecordsTimes = 0;
 
-    return [scores.indexOf(maximum),scores.indexOf(minimum)] 
+    scores.forEach( (score) => {
+        console.log(score)
+        if(currentMostRecord > score)  {
+            currentMostRecord = score;  
+            mostRecordsTimes++
+        }
+        else if(currentLeastRecord < score) {
+            currentLeastRecord = score;
+            leastRecordsTimes++;
+        } 
+    })
+    
+    return [leastRecordsTimes,mostRecordsTimes] 
+
 }
 
 function main() {
