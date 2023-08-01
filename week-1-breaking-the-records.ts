@@ -39,7 +39,6 @@ function breakingRecords(scores: number[]): number[] {
     let leastRecordsTimes = 0;
 
     scores.forEach( (score) => {
-        console.log(score)
         if(currentMostRecord > score)  {
             currentMostRecord = score;  
             mostRecordsTimes++
