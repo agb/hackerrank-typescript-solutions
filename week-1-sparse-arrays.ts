@@ -33,7 +33,15 @@ function readLine(): string {
  */
 
 function matchingStrings(strings: string[], queries: string[]): number[] {
-    // Write your code here
+   
+   let output:number[] = [];
+   
+   queries.forEach((query) => {
+       const howMany = strings.filter((value)=> query === value).length;
+       output.push(howMany);
+   })
+   
+   return output;
 
 }
 
