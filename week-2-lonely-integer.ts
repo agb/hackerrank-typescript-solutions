@@ -31,8 +31,10 @@ function readLine(): string {
  */
 
 function lonelyinteger(a: number[]): number {
-    // Write your code here
-
+    
+    const uniqueNumber = a.find((value)=> a.indexOf(value) === a.lastIndexOf(value));
+    
+    return uniqueNumber;
 }
 
 function main() {
