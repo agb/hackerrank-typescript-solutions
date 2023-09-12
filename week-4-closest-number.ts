@@ -38,11 +38,12 @@ function closestNumbers(arr: number[]): number[] {
     do {
         const current = sortedArray[0];
         const next    = sortedArray[1];
+        const new = next-current;
 
-        if (next - current < diff) {
+        if (new < diff) {
             closestPairs = [current, next];
-            diff = next - current;
-        } else if (next - current === diff) 
+            diff = new;
+        } else if (new === diff) 
             closestPairs = [...closestPairs, current, next];
         
        sortedArray.shift();
