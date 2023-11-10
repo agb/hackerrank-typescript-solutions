@@ -2,7 +2,7 @@
 
 These are my HackerRank solutions. If you recognize an algorithm or performance problem please feel free to refactor.
 
-|    |    |
+|  Problem  |  Solution  |
 | ------------ | ------------ |
 |  Week-1 - Breaking the Records | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-1-breaking-the-records.ts "Solution")  |
 |  Week-1 - Camel Case | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-1-camel-case-4.ts "Solution")  |
