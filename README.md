@@ -19,19 +19,19 @@ These are my HackerRank solutions. If you recognize an algorithm or performance 
 |  Week-2 - Mars Exploration | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-2-mars-exploration.ts "Solution")  |
 |  Week-2 - Pangrams | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-2-pangrams.ts "Solution")  |
 |  Week-3 - Drawing Book | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-3-drawing-book.ts "Solution")  |
-|  Week-3 - Maximum Perimeter Triangle | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-3-maximum-perimeter-triangle.ts"Solution")  |
-|  Week-3 - Migratory Birds | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-3-migratory-birds.ts"Solution")  |
-|  Week-3 - Permuting Two Arrays | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-3-permuting-two-arrays.ts"Solution")  |
-|  Week-3 - Sales by Match | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-3-sales-by-match.ts"Solution")  |
-|  Week-3 - Subarray Division-2 | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-3-subarray-division-2.ts"Solution")  |
-|  Week-3 - Xor Strings-3 | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-3-xor-strings-3.js"Solution")  |
-|  Week-3 - Zig-zag-sequence | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-3-zig-zag-sequence.py"Solution")  |
-|  Week-4 - Caesar Cipher | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-4-caesar-cipher.ts"Solution")  |
-|  Week-4 - Closest Number | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-4-closest-number.ts"Solution")  |
-|  Week-4 - Left Rotation | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-4-left-rotation.ts"Solution")  |
-|  Week-4 - Minimum Absolute Difference in an Array | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-4-minimum-absolute-difference-in-an-array.ts"Solution")  |
-|  Week-4 - Numberline Jump | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-4-number-line-jump.ts"Solution")  |
-|  Week-4 - Picking Numbers | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-4-picking-numbers.ts"Solution")  |
-|  Week-4 - Tower Breakers | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-4-tower-breakers.ts"Solution")  |
-|  Week-5 - Max Min | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-5-max-min.ts"Solution")  |
+|  Week-3 - Maximum Perimeter Triangle | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-3-maximum-perimeter-triangle.ts "Solution")  |
+|  Week-3 - Migratory Birds | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-3-migratory-birds.ts "Solution")  |
+|  Week-3 - Permuting Two Arrays | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-3-permuting-two-arrays.ts "Solution")  |
+|  Week-3 - Sales by Match | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-3-sales-by-match.ts "Solution")  |
+|  Week-3 - Subarray Division-2 | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-3-subarray-division-2.ts "Solution")  |
+|  Week-3 - Xor Strings-3 | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-3-xor-strings-3.js "Solution")  |
+|  Week-3 - Zig-zag-sequence | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-3-zig-zag-sequence.py "Solution")  |
+|  Week-4 - Caesar Cipher | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-4-caesar-cipher.ts "Solution")  |
+|  Week-4 - Closest Number | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-4-closest-number.ts "Solution")  |
+|  Week-4 - Left Rotation | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-4-left-rotation.ts "Solution")  |
+|  Week-4 - Minimum Absolute Difference in an Array | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-4-minimum-absolute-difference-in-an-array.ts "Solution")  |
+|  Week-4 - Numberline Jump | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-4-number-line-jump.ts "Solution")  |
+|  Week-4 - Picking Numbers | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-4-picking-numbers.ts "Solution")  |
+|  Week-4 - Tower Breakers | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-4-tower-breakers.ts "Solution")  |
+|  Week-5 - Max Min | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-5-max-min.ts "Solution")  |
 
