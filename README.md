@@ -10,12 +10,12 @@ These are my HackerRank solutions. If you recognize an algorithm or performance 
 |  Week-1 - Mini Max Sum | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-1-mini-max-sum.ts "Solution")  |
 |  Week-1 - Plus Minus | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-1-plus-minus.ts "Solution")  |
 |  Week-1 - Time Conversion | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-1-time-conversion.ts "Solution")  |
-|  Week-２ - Counting Sort 1 |  [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-2-counting-sort-1.ts "Solution")  |
-|  Week-２ - Counting Valleys | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-2-counting-valleys.ts "Solution")  |
-|  Week-２ - Diagonal Difference | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-2-diagonal-difference.ts "Solution")  |
-|  Week-２ - Flipping Bits | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-2-flipping-bits.ts "Solution")  |
-|  Week-２ - Grading-students | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-2-grading-students.ts "Solution")  |
-|  Week-２ - Lonely Integer | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-2-lonely-integer.ts "Solution")  |
+|  Week-2 - Counting Sort 1 |  [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-2-counting-sort-1.ts "Solution")  |
+|  Week-2 - Counting Valleys | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-2-counting-valleys.ts "Solution")  |
+|  Week-2 - Diagonal Difference | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-2-diagonal-difference.ts "Solution")  |
+|  Week-2 - Flipping Bits | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-2-flipping-bits.ts "Solution")  |
+|  Week-2 - Grading Students | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-2-grading-students.ts "Solution")  |
+|  Week-2 - Lonely Integer | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-2-lonely-integer.ts "Solution")  |
 |  Week-2 - Mars Exploration | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-2-mars-exploration.ts "Solution")  |
 |  Week-2 - Pangrams | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-2-pangrams.ts "Solution")  |
 |  Week-3 - Drawing Book | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-3-drawing-book.ts"Solution")  |
@@ -25,7 +25,7 @@ These are my HackerRank solutions. If you recognize an algorithm or performance 
 |  Week-3 - Sales by Match | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-3-sales-by-match.ts"Solution")  |
 |  Week-3 - Subarray Division-2 | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-3-subarray-division-2.ts"Solution")  |
 |  Week-3 - Xor Strings-3 | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-3-xor-strings-3.js"Solution")  |
-|  Week-3 - Zig-zag-sequence | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-3-zig-zag-sequence.py"Solution")  |
+|  Week-3 - Zig Zag Sequence | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-3-zig-zag-sequence.py"Solution")  |
 |  Week-4 - Caesar Cipher | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-4-caesar-cipher.ts"Solution")  |
 |  Week-4 - Closest Number | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-4-closest-number.ts"Solution")  |
 |  Week-4 - Left Rotation | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-4-left-rotation.ts"Solution")  |
