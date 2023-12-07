@@ -34,4 +34,5 @@ These are my HackerRank solutions. If you recognize an algorithm or performance 
 |  Week-4 - Picking Numbers | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-4-picking-numbers.ts "Solution")  |
 |  Week-4 - Tower Breakers | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-4-tower-breakers.ts "Solution")  |
 |  Week-5 - Max Min | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-5-max-min.ts "Solution")  |
+|  Week-5 - Dynamic Array | [Solution](https://github.com/agb/hackerrank-typescript-solutions/blob/main/week-5-dynamic-array.ts "Solution")  |
 
