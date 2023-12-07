@@ -1,6 +1,6 @@
 # HackerRank 3 Months Preparation Kit Solutions
 
-These are my HackerRank solutions. If you recognize an algorithm or performance problem please feel free to refactor.
+These are my HackerRank solutions. If you recognize an error/false in algorithms or performance problem please feel free to refactor.
 
 |  Problem  |  Solution  |
 | ------------ | ------------ |
